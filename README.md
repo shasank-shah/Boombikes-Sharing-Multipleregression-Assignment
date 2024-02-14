@@ -34,13 +34,13 @@ You are required to model the demand for shared bikes with the available indepen
 - statsmodels - version 0.14.0
 
 ## Conclusions
-- 1. The Adjusted R^2 is around 80%, Which is a Good Score.
-- 2. Whereas the other Environmental condition such as Humidity, Light and Windspeed affects the Business negatively.
-- 3. It is interesting to see Specially Saturday People like to Rent a Bike more than other usual Days
-- 4. Whereas on Holiday it affects the Business negatively.
-- 5. The Demand of Bikes is more in the Winter and Summer season, mostly user don't like to travel using Bikes in Rainy Day or Rainy Season.
-- 6. Demand of Bike Rent has been significantly increased in the 2019 than 2018 so it is clear sign that Boom Bikes is doing a Business.
-- 7. The R^2 score is 81%. Even though without expending a single cent BOOM Bikes can expect their business to grow by 19%
+1. The Adjusted R^2 is around 80%, Which is a Good Score.
+2. Whereas the other Environmental condition such as Humidity, Light and Windspeed affects the Business negatively.
+3. It is interesting to see Specially Saturday People like to Rent a Bike more than other usual Days
+4. Whereas on Holiday it affects the Business negatively.
+5. The Demand of Bikes is more in the Winter and Summer season, mostly user don't like to travel using Bikes in Rainy Day or Rainy Season.
+6. Demand of Bike Rent has been significantly increased in the 2019 than 2018 so it is clear sign that Boom Bikes is doing a Business.
+7. The R^2 score is 81%. Even though without expending a single cent BOOM Bikes can expect their business to grow by 19%
 
 ## Acknowledgements
-Team member [Shasank]
+Team member [Shasank Shah]
